@@ -8,7 +8,7 @@ Visualforce integration + Apex helper class
 
 Test Coverage : 100%
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=ForceComDeveloper&repo=Apex_reCaptcha">
+<a href="https://githubsfdeploy.herokuapp.com?owner=srujan21&repo=Apex_reCaptcha">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
